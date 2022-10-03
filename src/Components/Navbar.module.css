@@ -1,0 +1,10 @@
+.default {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .active {
+    text-decoration: none;
+    color: green;
+  }
+  
